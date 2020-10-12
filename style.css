@@ -1,0 +1,15 @@
+#header ul{
+    color: white;
+}
+#header img{
+    height: 60px;
+}
+
+.height-everest{
+    height: 70px;
+}
+
+#product-div{
+    border-radius: 10px;
+    border: 1px black solid;
+}
